@@ -1,0 +1,7 @@
+C:\Users\irem\source\repos\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\irem\source\repos\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\irem\source\repos\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\irem\source\repos\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\irem\source\repos\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\irem\source\repos\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+C:\Users\irem\source\repos\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
