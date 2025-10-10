@@ -1,0 +1,8 @@
+C:\Users\irem\source\repos\DesignPatterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\irem\source\repos\DesignPatterns\Decorator\bin\Debug\Decorator.exe
+C:\Users\irem\source\repos\DesignPatterns\Decorator\bin\Debug\Decorator.pdb
+C:\Users\irem\source\repos\DesignPatterns\Decorator\obj\Debug\Decorator.csproj.AssemblyReference.cache
+C:\Users\irem\source\repos\DesignPatterns\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\irem\source\repos\DesignPatterns\Decorator\obj\Debug\Decorator.exe
+C:\Users\irem\source\repos\DesignPatterns\Decorator\obj\Debug\Decorator.pdb
+C:\Users\irem\source\repos\DesignPatterns\Decorator\obj\Debug\Decorator.exe.config
