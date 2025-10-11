@@ -1,0 +1,8 @@
+C:\Users\irem\source\repos\DesignPatterns\Memento\bin\Debug\Memento.exe.config
+C:\Users\irem\source\repos\DesignPatterns\Memento\bin\Debug\Memento.exe
+C:\Users\irem\source\repos\DesignPatterns\Memento\bin\Debug\Memento.pdb
+C:\Users\irem\source\repos\DesignPatterns\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\irem\source\repos\DesignPatterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\irem\source\repos\DesignPatterns\Memento\obj\Debug\Memento.exe
+C:\Users\irem\source\repos\DesignPatterns\Memento\obj\Debug\Memento.pdb
+C:\Users\irem\source\repos\DesignPatterns\Memento\obj\Debug\Memento.exe.config

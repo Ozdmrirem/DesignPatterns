@@ -1,0 +1,8 @@
+C:\Users\irem\source\repos\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+C:\Users\irem\source\repos\DesignPatterns\Observer\bin\Debug\Observer.exe
+C:\Users\irem\source\repos\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\irem\source\repos\DesignPatterns\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+C:\Users\irem\source\repos\DesignPatterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\irem\source\repos\DesignPatterns\Observer\obj\Debug\Observer.exe
+C:\Users\irem\source\repos\DesignPatterns\Observer\obj\Debug\Observer.pdb
+C:\Users\irem\source\repos\DesignPatterns\Observer\obj\Debug\Observer.exe.config
