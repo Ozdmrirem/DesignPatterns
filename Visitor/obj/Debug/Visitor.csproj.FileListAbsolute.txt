@@ -1,0 +1,7 @@
+C:\Users\irem\source\repos\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\irem\source\repos\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Users\irem\source\repos\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\irem\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.AssemblyReference.cache
+C:\Users\irem\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\irem\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+C:\Users\irem\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.pdb
